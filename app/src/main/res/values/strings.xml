@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Swarm Mobile</string>
+    <string name="loading_message">Loading swarm-space…</string>
+</resources>
