@@ -1,0 +1,4 @@
+/build/
+/scripts/debug.keystore
+.idea/
+.DS_Store
