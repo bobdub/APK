@@ -33,6 +33,7 @@ Build an Android application (APK) that wraps and extends the functionality of t
 - Draft initial UI wireframes to validate information architecture.
 
 ## Open Questions
-- Does the APK need offline capabilities or background sync?
+- The APK needs offline capabilities or background sync.
+  
 - Are there platform-specific integrations (e.g., sensors, notifications) required beyond the web experience?
 - What telemetry/analytics should be captured to monitor usage?
